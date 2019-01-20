@@ -2,7 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <h1>Hello Docker</h1>
-    <h1>Hello Docker</h1>
+    <h1>Hello Sentry</h1>
     <HelloWorld/>
   </div>
 </template>
